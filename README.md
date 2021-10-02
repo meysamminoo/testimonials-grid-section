@@ -18,8 +18,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/meysamminoo/testimonials-grid-section)
+- Live Site URL: [Live site URL](https://meysamminoo.github.io/testimonials-grid-section/)
 
 ### Built with
 
